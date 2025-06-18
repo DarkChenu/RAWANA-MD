@@ -1,6 +1,6 @@
 NODE.js 
 
-name: Node.js Cl
+name: Node.js CI
 
 on:
   push:
